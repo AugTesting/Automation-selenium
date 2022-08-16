@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-14T13:21:25 EDT" name="Suite" finished-at="2022-07-14T13:21:26 EDT" duration-ms="1065">
+    <groups>
+    </groups>
+    <test started-at="2022-07-14T13:21:25 EDT" name="Test" finished-at="2022-07-14T13:21:26 EDT" duration-ms="1065">
+      <class name="extentreports.Logout">
+        <test-method is-config="true" signature="setup()[pri:0, instance:extentreports.Logout@73e22a3d]" started-at="2022-07-14T13:21:26 EDT" name="setup" finished-at="2022-07-14T13:21:26 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LogoutTest()[pri:0, instance:extentreports.Logout@73e22a3d]" started-at="2022-07-14T13:21:26 EDT" name="LogoutTest" finished-at="2022-07-14T13:21:26 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:extentreports.Logout@73e22a3d]" started-at="2022-07-14T13:21:26 EDT" name="teardown" finished-at="2022-07-14T13:21:26 EDT" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- extentreports.Logout -->
+      <class name="extentreports.Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:extentreports.Login@193f604a]" started-at="2022-07-14T13:21:25 EDT" name="setup" finished-at="2022-07-14T13:21:26 EDT" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginTest()[pri:0, instance:extentreports.Login@193f604a]" started-at="2022-07-14T13:21:26 EDT" name="LoginTest" finished-at="2022-07-14T13:21:26 EDT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:extentreports.Login@193f604a]" started-at="2022-07-14T13:21:26 EDT" name="teardown" finished-at="2022-07-14T13:21:26 EDT" duration-ms="477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- extentreports.Login -->
+      <class name="extentreports.Registration">
+        <test-method signature="RegistrationTest()[pri:0, instance:extentreports.Registration@3232a28a]" started-at="2022-07-14T13:21:26 EDT" name="RegistrationTest" finished-at="2022-07-14T13:21:26 EDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:extentreports.Registration@3232a28a]" started-at="2022-07-14T13:21:26 EDT" name="setup" finished-at="2022-07-14T13:21:26 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:extentreports.Registration@3232a28a]" started-at="2022-07-14T13:21:26 EDT" name="teardown" finished-at="2022-07-14T13:21:26 EDT" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- extentreports.Registration -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
